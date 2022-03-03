@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Pamela Caguana</h1>
 <h3 align="center">A passionate software engineer from Colorado</h3>
 
-<p align="left"> <a href="https://twitter.com/PamCdev" target="blank"><img src="https://img.shields.io/twitter/follow/pamcobdev?logo=twitter&style=for-the-badge" alt="pamcobdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PamCdev" target="blank"><img src="https://img.shields.io/twitter/follow/PamCdev?logo=twitter&style=for-the-badge" alt="PamCdev" /></a> </p>
 
 <!-- - 👨‍💻 All of my projects are available at [https://pamelacaguana.com](https://pamelacaguana.com) -->
 
