@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Pamela Caguana</h1>
 <h3 align="center">A passionate software engineer from Colorado</h3>
 
-<p align="left"> <a href="https://twitter.com/pamcobdev" target="blank"><img src="https://img.shields.io/twitter/follow/pamcobdev?logo=twitter&style=for-the-badge" alt="pamcobdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PamCdev" target="blank"><img src="https://img.shields.io/twitter/follow/pamcobdev?logo=twitter&style=for-the-badge" alt="pamcobdev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://pamelacaguana.netlify.app](https://pamelacaguana.netlify.app)
+<!-- - 👨‍💻 All of my projects are available at [https://pamelacaguana.com](https://pamelacaguana.com) -->
 
 - 📫 How to reach me **pamelacaguana@gmail.com**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pamcobdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="pamcobdev" height="30" width="40" /></a>
+<a href="https://twitter.com/PamCdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="pamcobdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pamelacaguana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="pamelacaguana" height="30" width="40" /></a>
 </p>
 
