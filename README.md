@@ -5,7 +5,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://pamelacaguana.com](https://pamelacaguana.com) -->
 
-- 📫 How to reach me **pamelacaguana@gmail.com**
+- 📫 How to reach me **pamela.caguana@gmail.com**
 
 - ⚡ Fun fact **I write scripts for shows for fun**
 
