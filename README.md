@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/PamCaguana" target="blank"><img src="https://img.shields.io/twitter/follow/PamCaguana?logo=twitter&style=for-the-badge" alt="PamCaguana" /></a> </p>
 
-<!-- - 👨‍💻 All of my projects are available at [https://pamelacaguana.com](https://pamelacaguana.com) -->
+- 👨‍💻 Check out my portfolio [https://pamelacaguana.com](https://pamelacaguana.com)
 
 - 📫 How to reach me **pamela.caguana@gmail.com**
 
